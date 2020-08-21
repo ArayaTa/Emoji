@@ -16,13 +16,7 @@
     <br />
     <hr />
     <div class="row">
-      <div class="col-4">
-        <img src="https://mpics.mgronline.com/pics/Images/563000006298202.JPEG" class="rounded" width="50%" />
-        <p>
-          <br />
-        </p>
-        <Button />
-      </div>
+     
       <div class="col-4">
         <img src="https://www.ryt9.com/img/files/20190423/iqeca733ae6e4c1121bede1a07bcc7cf22.jpg" class="rounded" width="50%" />
         <p>
