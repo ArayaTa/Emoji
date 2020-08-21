@@ -17,7 +17,7 @@
     <hr />
     <div class="row">
       <div class="col-4">
-        <img src="https://s.isanook.com/jo/0/ui/483/2417501/pr_main.jpg" class="rounded" width="50%" />
+        <img src="https://mpics.mgronline.com/pics/Images/563000006298202.JPEG" class="rounded" width="50%" />
         <p>
           <br />
         </p>
