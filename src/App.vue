@@ -17,42 +17,42 @@
     <hr />
     <div class="row">
       <div class="col-4">
-        <img src="./assets/boky.jpg" class="rounded" width="50%" />
+        <img src="./assets/b.jpg" class="rounded" width="50%" />
         <p>
           <br />
         </p>
         <Button />
       </div>
       <div class="col-4">
-        <img src="./assets/toy.jpg" class="rounded" width="50%" />
+        <img src="./assets/t.jpg" class="rounded" width="50%" />
         <p>
           <br />
         </p>
         <Button />
       </div>
       <div class="col-4">
-        <img src="./assets/Bright.jpg" class="rounded" width="50%" />
+        <img src="./assets/BB.jpg" class="rounded" width="50%" />
         <p>
           <br />
         </p>
         <Button />
       </div>
       <div class="col-4">
-        <img src="./assets/Palmy.png" class="rounded" width="50%" />
+        <img src="./assets/P.png" class="rounded" width="50%" />
         <p>
           <br />
         </p>
         <Button />
       </div>
       <div class="col-4">
-        <img src="./assets/Ammy.jpg" class="rounded" width="50%" />
+        <img src="./assets/a.jpg" class="rounded" width="50%" />
         <p>
           <br />
         </p>
         <Button />
       </div>
       <div class="col-4">
-        <img src="./assets/polycat.jpg" class="rounded" width="50%" />
+        <img src="./assets/pc.jpg" class="rounded" width="50%" />
 
         <p>
           <br />
