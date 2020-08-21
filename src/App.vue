@@ -17,7 +17,7 @@
     <hr />
     <div class="row">
       <div class="col-4">
-        <img src=(https://lh3.googleusercontent.com/proxy/zjLAIHx_h9HjoMSLd7xAG2s2Q0wjzYkzp0KX4YOB5QKul7VAv8EgrWcbUt1FBHJVTi6yutJ4D_TdPiB3x2wwRI9rVzcPs86PBtkBaLz0M9co4lueAkUlJ-HddfXPFmj2I1E7Hg_GvBSn39U) class="rounded" width="50%" />
+        <img src="https://lh3.googleusercontent.com/proxy/zjLAIHx_h9HjoMSLd7xAG2s2Q0wjzYkzp0KX4YOB5QKul7VAv8EgrWcbUt1FBHJVTi6yutJ4D_TdPiB3x2wwRI9rVzcPs86PBtkBaLz0M9co4lueAkUlJ-HddfXPFmj2I1E7Hg_GvBSn39U" class="rounded" width="50%" />
         <p>
           <br />
         </p>
